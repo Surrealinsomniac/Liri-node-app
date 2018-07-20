@@ -1,0 +1,21 @@
+{
+  "name": "node_homework_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Liri.js",
+  "dependencies": {
+    "deep-extend": "^0.6.0",
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

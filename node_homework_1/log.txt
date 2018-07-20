@@ -1,0 +1,22 @@
+User command: movie-this cars 
+Liri response: 
+----------------------
+Title: Cars
+Released: 2006
+IMDb: 7.1
+Rotten Tomatoes: undefined
+Country Produced: USA
+Language: English, Italian, Japanese, Yiddish
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Features: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+
+User command: spotify-this-song: polar opposites modest mouse 
+
+Liri response:
+ ----------------------
+Song Info
+----------------------
+Title: Polar Opposites
+Artist: Modest Mouse
+Album: The Lonesome Crowded West
+Preivew Here: https://p.scdn.co/mp3-preview/2967d61f449252905e7b6ffed200d89122335548?cid=976c68e51a40437788d079299900260f
